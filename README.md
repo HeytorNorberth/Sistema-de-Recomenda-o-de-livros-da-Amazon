@@ -15,7 +15,7 @@ Eles recomendam os produtos que estão em alta ou com alta classificação e tam
 Um sistema de recomendação de livros é um tipo de sistema de recomendação em que temos que recomendar livros semelhantes ao leitor com base em seu interesse. 
 O sistema de recomendação de livros é usado por sites online que fornecem e-books como google play books, open library, good Read's, etc.
 
-#Resultado
+Resultado
 
 Você concorda que se vc receber uma recomendação certeira, a chance de vc comprar o livro é muito maior?
 
